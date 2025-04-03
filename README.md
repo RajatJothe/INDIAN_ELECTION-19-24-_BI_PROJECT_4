@@ -1,12 +1,11 @@
 # INDIAN_ELECTION-19-24-_BI_PROJECT_4
 
-Power BI Election Dashboard
-Description: Developed an interactive Power BI dashboard analyzing Indian elections (2019 & 2024) using datasets from Kaggle.
+Power BI Dashboard
 
-Key Contributions:
+Indian Elections Dashboard (2019 & 2024) | Tools: Power BI, DAX, Kaggle Dataset, Figma
 
-1.Designed a visually appealing background using Figma.
+1. Built an interactive dashboard using Power BI to visualize trends in Indian elections.
 
-2.Processed and transformed data using DAX formulas for insightful analysis.
+2. Used DAX formulas for data calculations and designed a custom background in Figma.
 
-3.Created interactive visualizations to showcase election trends and results.
+3. Analyzed voter patterns and trends across two years.
