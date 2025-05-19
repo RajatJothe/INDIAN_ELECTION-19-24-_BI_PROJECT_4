@@ -9,3 +9,5 @@ Indian Elections Dashboard (2019 & 2024) | Tools: Power BI, DAX, Kaggle Dataset,
 2. Used DAX formulas for data calculations and designed a custom background in Figma.
 
 3. Analyzed voter patterns and trends across two years.
+
+![Dashboard preview](https://github.com/RajatJothe/INDIAN_ELECTION-19-24-_BI_PROJECT_4/blob/main/Screenshort_dashboard.PNG)
